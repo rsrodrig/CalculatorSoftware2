@@ -1,0 +1,8 @@
+-classpath 'C:\\Users\\CltControl.WRKS129-158FIEC\\Documents\\workspace\\Calculator\\build\\classes\\main;C:\\Users\\CltControl.WRKS129-158FIEC\\Documents\\workspace\\Calculator\\build\\resources\\main;C:\\Users\\CltControl.WRKS129-158FIEC\\.gradle\\caches\\modules-2\\files-2.1\\org.slf4j\\slf4j-api\\1.7.13\\7fcf30c25b8f4a9379b9dad0d3f487b25272c026\\slf4j-api-1.7.13.jar'
+-d 'C:\\Users\\CltControl.WRKS129-158FIEC\\Documents\\workspace\\Calculator\\build\\docs\\javadoc'
+-doctitle 'Calculator API'
+-quiet 
+-windowtitle 'Calculator API'
+'C:\\Users\\CltControl.WRKS129-158FIEC\\Documents\\workspace\\Calculator\\src\\main\\java\\ec\\edu\\espol\\CalService.java'
+'C:\\Users\\CltControl.WRKS129-158FIEC\\Documents\\workspace\\Calculator\\src\\main\\java\\ec\\edu\\espol\\ICalculator.java'
+'C:\\Users\\CltControl.WRKS129-158FIEC\\Documents\\workspace\\Calculator\\src\\main\\java\\Library.java'
